@@ -10,6 +10,7 @@ namespace mTSP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("change first ver");
         }
     }
 }
